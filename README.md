@@ -1,7 +1,13 @@
+
 # Grocery Delivery Application
 
 ## Overview
 The **Grocery Delivery Application** is a full-stack web application that allows users to browse grocery items, add them to their cart, and place orders for delivery. This project demonstrates an end-to-end e-commerce solution with authentication, real-time order tracking, and a user-friendly interface.
+![menu page](https://github.com/user-attachments/assets/dc9cfd66-828a-4ac2-8b0a-469ee4d9e216)
+
+![signup and login page](https://github.com/user-attachments/assets/69ed8171-5ca8-460b-959c-3db3e34ab116)
+
+![cart page](https://github.com/user-attachments/assets/fda29103-abea-4947-9ef9-309068e7354a)
 
 ## Features
 - User authentication (sign-up, login, logout)
@@ -73,6 +79,10 @@ Ensure you have the following installed:
 
 ## License
 This project is licensed under the MIT License.
+![Screenshot 2024-07-16 172255](https://github.com/user-attachments/assets/04ce1c2b-4b12-4be7-a6a7-db9d8841136c)![admin page-add items](https://github.com/user-attachments/assets/5574bce3-f85b-45f7-9903-7cf4ac295975)![admin page-list](https://github.com/user-attachments/assets/ec39d64a-0b83-4749-9007-4ae92ffa5019)
+
+
+
 
 
 
