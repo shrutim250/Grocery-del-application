@@ -35,3 +35,9 @@ app.listen(port,()=>{
 })
 
 // mongodb+srv://shruti:shruti09dec@cluster0.hl42elw.mongodb.net/?
+
+const path = require('path');
+app.use(express.static(path.join(__dirname, '../frontend/build')));
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../frontend/build', 'index.html'));
+});
